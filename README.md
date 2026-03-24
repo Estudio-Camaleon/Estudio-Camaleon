@@ -1,7 +1,7 @@
 # 🦎 Camaleón Dev
 
 <p align="center">
-  <img src="Banner_camaleon_final.png" alt="Banner Camaleón" width="100%">
+  <img src="Banner_camaleon_final_3.png" alt="Banner Camaleón" width="100%">
 </p>
 
 
