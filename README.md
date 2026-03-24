@@ -1,5 +1,4 @@
 # 🦎 Camaleón Dev
-### Diseño + Código + Adaptabilidad
 
 <p align="center">
   <img src="Banner_camaleon_final.png" alt="Banner Camaleón" width="100%">
